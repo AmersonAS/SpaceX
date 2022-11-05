@@ -252,7 +252,7 @@ button {
   }
 }
 .container00.container08 {
-  margin-bottom: -20px;
+  margin-bottom: -30px;
   background-image: url(../../images/humanFlight/01.jpg);
 }
 .container00.container09 {
@@ -362,7 +362,7 @@ button {
     width: 100px;
   }
   .container01Content .titleHuman {
-    font-size: 40px;
+    font-size: 20px;
   }
 }
 
